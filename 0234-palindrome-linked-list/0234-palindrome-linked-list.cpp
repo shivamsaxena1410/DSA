@@ -24,12 +24,12 @@ public:
     bool isPalindrome(ListNode* head) {
         ListNode * slow = head;
         ListNode * fast = head;
-        while(fast->next!=NULL && fast->next->next != NULL){
+        while(fast!=NULL && fast->next != NULL){
             slow=slow->next;
             fast=fast->next->next;
         }
 
-        ListNode * newHead = reverselist(slow->next);
+        ListNode * newHead = reverselist(slow);
 
         ListNode * first= head;
         ListNode* second = newHead;
