@@ -43,10 +43,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shivamsaxena1410/DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/shivamsaxena1410/DSA/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shivamsaxena1410/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivamsaxena1410/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shivamsaxena1410/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
