@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/shivamsaxena1410/DSA/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/shivamsaxena1410/DSA/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -48,10 +49,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/shivamsaxena1410/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/shivamsaxena1410/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivamsaxena1410/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivamsaxena1410/DSA/tree/master/0020-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/shivamsaxena1410/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
